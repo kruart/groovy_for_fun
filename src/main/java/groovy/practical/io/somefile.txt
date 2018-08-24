@@ -1,0 +1,3 @@
+ For that, please read the GDK API.
+ As a first example, let’s see how you would print all lines of a text file in Groovy:
+ The eachLine method is a method added to the File class automatically by Groovy...
